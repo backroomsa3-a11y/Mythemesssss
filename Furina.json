@@ -1,0 +1,106 @@
+{
+  "name": "Salon Solitaire: Furina",
+  "description": "genshin impact furina",
+  "authors": [
+    {
+      "name": "Noctra"
+    }
+  ],
+  "spec": 2,
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/backroomsa3-a11y/Mythemesssss/main/Furina%20icon%20__%20%D0%A4%D1%83%D1%80%D0%B8%D0%BD%D0%B0%20%D0%B0%D1%80%D1%82-Picsart-AiImageEnhancer.jpeg",
+    "alpha": 0.45,
+    "blur": 0
+  },
+
+  "semanticColors": {
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#03091480"],
+    "ANDROID_RIPPLE": ["#7ecbf523"],
+    "BACKGROUND_ACCENT": ["#0b162c"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#ffffff0a"],
+    
+    "BACKGROUND_PRIMARY": ["#02061240"],
+    "BACKGROUND_SECONDARY": ["#040c2055"],
+    "BACKGROUND_SECONDARY_ALT": ["#02061222"],
+    "BG_BASE_TERTIARY": ["#01040d66"],
+    "BG_BASE_PRIMARY": ["#02061240"],
+    "BG_BASE_SECONDARY": ["#02061240"],
+    "BG_SURFACE_RAISED": ["#040c2040"],
+    "BG_SURFACE_OVERLAY_TMP": ["#01040d66"],
+    "CARD_PRIMARY_BG": ["#040c2055"],
+    "CARD_SECONDARY_BG": ["#040c2055"],
+    "PANEL_BG": ["#040c2055"],
+    
+    "BG_BRAND": ["#7ecbf595"],
+    "CHANNEL_ICON": ["#7ecbf5ac"],
+    "EMBED_BACKGROUND": ["#02061240"],
+    "EMBED_BACKGROUND_ALTERNATE": ["#02061240"],
+    "INTERACTIVE_ACTIVE": ["#7ecbf5"],
+    "INTERACTIVE_MUTED": ["#3a4d6e"],
+    "INTERACTIVE_NORMAL": ["#8faabf"],
+    
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#2563eb30"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#ffffff10"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#ffffff15"],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#ffffff20"],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": ["#e2eaff"],
+    "REDESIGN_BUTTON_TERTIARY_TEXT": ["#7ecbf5"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#7ecbf5"],
+    "TEXT_NORMAL": ["#e2eaff"],
+    "TEXT_PRIMARY": ["#e2eaff"],
+    "TEXT_SECONDARY": ["#94a9cc"],
+    "THREAD_CHANNEL_SPINE": ["#7ecbf5"],
+    "BACKGROUND_MENTIONED": ["#7ecbf520"],
+    "PREMIUM_NITRO_PINK_TEXT": ["#7ecbf5"],
+    "TEXT_MUTED": ["#3a4d6e"],
+    "TEXT_LINK": ["#7ecbf5"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#02061255"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#02061233"],
+    "INPUT_BACKGROUND": ["#02061255"],
+    
+    "TEXT_DANGER": ["#7ecbf5"],
+    "BUTTON_OUTLINE_DANGER_BORDER": ["#7ecbf5"],
+    "INFO_DANGER_BACKGROUND": ["#7ecbf51a"],
+    "INFO_DANGER_FOREGROUND": ["#7ecbf5"],
+    "STATUS_DANGER": ["#7ecbf5"],
+    "STATUS_DND": ["#ff4ba2"],
+    "BACKGROUND_MESSAGE_AUTOMOD": ["#7ecbf50d"],
+    "BACKGROUND_MESSAGE_AUTOMOD_HOVER": ["#7ecbf51a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#7ecbf514"]
+  },
+
+  "rawColors": {
+    "BLUE_345": "#ffffff10",
+    "GREEN_430": "#ffffff10",
+    "RED_430": "#7ecbf5",
+    "RED_460": "#7ecbf5",
+    "GREEN_460": "#ffffff15",
+    "BRAND_260": "#7ecbf5",
+    "BRAND_360": "#7ecbf5",
+    "RED_400": "#7ecbf5",
+    "BRAND_500": "#7ecbf5",
+    "BRAND_560": "#2563eb",
+    "PLUM_13": "#ffffff10",
+    "PLUM_14": "#00000000",
+    "PLUM_15": "#ffffff10",
+    "PLUM_16": "#00000000",
+    "PLUM_17": "#00000000",
+    "PLUM_18": "#00000000",
+    "PLUM_19": "#ffffff15",
+    "PLUM_20": "#00000000",
+    "PLUM_22": "#00000000",
+    "PLUM_24": "#00000000",
+    "PRIMARY_500": "#00000033",
+    "PRIMARY_600": "#00000044",
+    "PRIMARY_660": "#00000044",
+    "PRIMARY_700": "#00000055",
+    "PRIMARY_800": "#00000066"
+  },
+
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#7ecbf5"
+  }
+}
+
