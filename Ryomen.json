@@ -836,7 +836,7 @@
 "GREEN_400": "#FF6A7D",
 "GREEN_500": "#E5383B",
 "GREEN_600": "#C1121F",
-"GREEN_700": "#8E0B24", [1] 
+"GREEN_700": "#8E0B24",
 "YELLOW_100": "#FFE2E5",
 "YELLOW_200": "#FFC5CC",
 "YELLOW_300": "#FF9AA8",
@@ -898,6 +898,4 @@
 "quinary": "#8E0B24"
 }
 }
-}
-
-    
+}  
