@@ -519,7 +519,7 @@
 
   "plus": {
     "version": 0,
-
+  "iconpack": "rosiecord-plumpy",
     "mentionLineColor": "#D50000",
     "replyLineColor": "#0077B6",
     "replyBadgeColor": "#B8BCC2",
