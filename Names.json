@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "themeName": "Porsche 911 GT Silver",
+    "author": "Noctra",
+    "version": "1.0",
+    "description": "Inspired by the Porsche 911 interior. Gunmetal panels, GT Silver trim, PCCB Yellow accents and Guards Red alerts.",
+    "designLanguage": "Porsche 911",
+    "palette": {
+      "graphite": "#35383D",
+      "gunmetal": "#40454B",
+      "slate": "#494E55",
+      "silver": "#AEB5BC",
+      "gtSilver": "#CDD2D8",
+      "iceSilver": "#F4F6F8",
+      "porscheYellow": "#F7C600",
+      "guardsRed": "#C1121F",
+      "acidGreen": "#8BF000"
+    }
+  },
+
+  "background": {
+    "url": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Mythemesssss@main/mvl5wg.gif",
+    "alpha": 0.70,
+    "blur": 2,
+    "overlay": "#35383DB8",
+    "animated": true,
+    "parallax": false
+  },
+
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#F4F6F8"],
+    "HEADER_SECONDARY": ["#D7DADF"],
+
+    "TEXT_PRIMARY": ["#F4F6F8"],
+    "TEXT_NORMAL": ["#F4F6F8"],
+    "TEXT_SECONDARY": ["#CDD2D8"],
+    "TEXT_MUTED": ["#9CA3AB"],
+    "TEXT_BRAND": ["#F7C600"],
+    "TEXT_LINK": ["#DCE2E7"],
+    "TEXT_WARNING": ["#F7C600"],
+    "TEXT_DANGER": ["#C1121F"],
+    "TEXT_POSITIVE": ["#8BF000"],
+
+    "CHANNEL_ICON": ["#AEB5BC"],
+    "CHANNELS_DEFAULT": ["#8A9198"],
+
+    "INTERACTIVE_NORMAL": ["#B2B8BE"],
+    "INTERACTIVE_HOVER": ["#F7C600"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#727980"],
+
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#F4F6F8"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#AEB5BC"],
+
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#F7C600"],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#D9AD00"],
+    "REDESIGN_BUTTON_PRIMARY_BORDER": ["#FFD84A"],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": ["#202224"],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#40454B"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#494E55"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#7E858C"],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": ["#F4F6F8"],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED": ["#555A61"],
+
+    "INPUT_BACKGROUND": ["#40454B"],
+    "INPUT_BORDER": ["#7E858C"],
+    "INPUT_BORDER_FOCUS": ["#F7C600"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#40454BE8"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#40454BE8"],
+
+    "SEARCH_BAR_BACKGROUND": ["#666C73"],
+    "SEARCH_BAR_BACKGROUND_NON_ACTIVE": ["#5B6167"],
+    "SEARCH_BAR_BACKGROUND_ACTIVE": ["#747A80"],
+    "SEARCH_BAR_TEXT": ["#F3F5F7"],
+    "SEARCH_BAR_PLACEHOLDER": ["#C2C7CC"],
+
+    "SEARCH_HIGHLIGHT": ["#F7C600"],
+    "SEARCH_HIGHLIGHT_TEXT": ["#202020"],
+
+    "SEARCH_RESULT_BACKGROUND": ["#5E646A"],
+    "SEARCH_RESULT_HOVER": ["#747A80"],
+    "SEARCH_RESULT_SELECTED": ["#8B9197"],
+
+    "EMBED_BACKGROUND": ["#494E55"],
+    "CARD_PRIMARY_BG": ["#40454B"],
+    "CARD_SECONDARY_BG": ["#494E55"],
+
+    "REACTION_BACKGROUND": ["#494E55"],
+    "REACTION_HOVER": ["#555A61"],
+    "REACTION_ACTIVE": ["#F7C600"],
+    "REACTION_TEXT": ["#F4F6F8"],
+
+    "PROFILE_GRADIENT_PRIMARY": ["#787E85"],
+    "PROFILE_GRADIENT_SECONDARY": ["#5E646A"],
+    "PROFILE_BODY_BACKGROUND": ["#666C73"],
+    "PROFILE_MESSAGE_INPUT_BACKGROUND": ["#5E646ACC"],
+    "PROFILE_NOTE_BACKGROUND": ["#747A80"],
+    "PROFILE_ROLE_PILL_BACKGROUND": ["#5B6167"],
+    "PROFILE_ROLE_PILL_BORDER": ["#AEB4BA"],
+    "PROFILE_ROLE_PILL_TEXT": ["#F3F5F7"],
+    "USER_PROFILE_MUTUAL_FRIENDS_BACKGROUND": ["#40454B"],
+
+    "VOICE_PANEL_BACKGROUND": ["#40454B"],
+    "VOICE_CONNECTED": ["#F7C600"],
+    "VOICE_SPEAKING": ["#8BF000"],
+    "VOICE_RING": ["#F7C600"],
+    "VOICE_VIDEO_BACKGROUND": ["#35383D"],
+    "VOICE_VIDEO_OVERLAY": ["#35383DB3"],
+
+    "CALL_BACKGROUND": ["#35383D"],
+    "CALL_CONTROL_BACKGROUND": ["#555A61"],
+    "CALL_CONTROL_ACTIVE": ["#F7C600"],
+    "CALL_CONTROL_HOVER": ["#7E858C"],
+
+    "EMOJI_PICKER_BACKGROUND": ["#40454B"],
+    "EMOJI_PICKER_CATEGORY": ["#AEB5BC"],
+    "EMOJI_PICKER_HOVER": ["#555A61"],
+
+    "FORUM_POST_TAG_BACKGROUND": ["#F7C600"],
+    "FORUM_POST_MEDIA_PLACEHOLDER": ["#494E55"],
+
+    "NITRO_BACKGROUND": ["#40454B"],
+    "BOOST_GRADIENT_START": ["#C9CDD2"],
+    "BOOST_GRADIENT_END": ["#F4F6F8"],
+
+    "MODAL_BACKGROUND": ["#666C73EE"],
+    "MODAL_HEADER": ["#FFFFFF"],
+    "MODAL_BORDER": ["#B7BDC2"],
+    "MODAL_FOOTER_BACKGROUND": ["#5B6167"],
+
+    "CONTEXT_MENU_BACKGROUND": ["#666C73EE"],
+    "CONTEXT_MENU_HOVER": ["#747A80"],
+    "CONTEXT_MENU_ACTIVE": ["#8B9197"],
+
+    "SWITCH_TRACK": ["#727980"],
+    "SWITCH_TRACK_CHECKED": ["#F7C600"],
+    "SWITCH_KNOB": ["#F4F6F8"],
+
+    "SLIDER_TRACK": ["#727980"],
+    "SLIDER_FILL": ["#F7C600"],
+
+    "CHECKBOX_BACKGROUND": ["#727980"],
+    "CHECKBOX_CHECK": ["#202224"],
+
+    "RADIO_BACKGROUND": ["#727980"],
+    "RADIO_SELECTED": ["#F7C600"],
+
+    "PROGRESS_BAR_BACKGROUND": ["#494E55"],
+    "PROGRESS_BAR_FILL": ["#F7C600"],
+
+    "BACKGROUND_ACCENT": ["#F7C600"],
+    "BACKGROUND_MENTIONED": ["#C1121F20"],
+    "BACKGROUND_MENTIONED_HOVER": ["#C1121F30"],
+    "MENTION_BACKGROUND": ["#C1121F20"],
+    "MENTION_FOREGROUND": ["#FFFFFF"],
+    "LINK_DEFAULT": ["#DCE2E7"],
+    "LINK_HOVER": ["#F7C600"],
+
+    "STATUS_BRAND": ["#F7C600"],
+    "STATUS_WARNING": ["#F7C600"],
+    "STATUS_DANGER": ["#C1121F"],
+    "STATUS_POSITIVE": ["#8BF000"],
+
+    "REPLY_QUOTE_LINE": ["#F7C600"],
+    "MENTION_LINE": ["#C1121F"],
+
+    "UNREAD_BAR_BACKGROUND": ["#F7C600"],
+    "UNREAD_BAR_TEXT": ["#1A1A1A"],
+    "NEW_MESSAGES_BAR": ["#F7C600"],
+    "NEW_MESSAGES_BAR_TEXT": ["#1A1A1A"],
+
+    "FOCUS_PRIMARY": ["#F7C600"],
+    "FOCUS_SECONDARY": ["#C1121F"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#FFFFFF10"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#FFFFFF18"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#FFFFFF22"],
+
+    "SCROLLBAR_THIN_THUMB": ["#727980"],
+    "SCROLLBAR_THIN_TRACK": ["#35383D"],
+    "SCROLLBAR_AUTO_THUMB": ["#7E858C"],
+    "SCROLLBAR_AUTO_TRACK": ["#40454B"],
+
+    "BORDER_FAINT": ["#FFFFFF12"],
+    "BORDER_SUBTLE": ["#FFFFFF1A"],
+    "BORDER_STRONG": ["#FFFFFF26"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#F4F6F8",
+    "PRIMARY_200": "#E9EDF0",
+    "PRIMARY_300": "#D7DADF",
+    "PRIMARY_400": "#CDD2D8",
+    "PRIMARY_500": "#AEB5BC",
+    "PRIMARY_600": "#8A9198",
+    "PRIMARY_700": "#727980",
+    "PRIMARY_530": "#555A61",
+    "PRIMARY_630": "#494E55",
+    "PRIMARY_660": "#40454B",
+
+    "BRAND_360": "#F7C600",
+    "BRAND_430": "#FFD84A",
+    "BRAND_500": "#E4B400",
+    "BRAND_530": "#D9AD00",
+
+    "RED_400": "#C1121F",
+    "GREEN_360": "#8BF000",
+    "YELLOW_300": "#F7C600",
+    "YELLOW_400": "#FFD54A"
+  },
+
+  "plus": {
+    "version": "1.0",
+    "glassmorphism": true,
+    "oledOptimized": false,
+    "borderRadius": 20,
+
+    "replyLineColor": "#F7C600",
+    "mentionLineColor": "#C1121F",
+    "threadSpineColor": "#7E858C",
+
+    "themeVariant": "Porsche 911 GT Silver",
+    "iconPack": "rosiecord-plumpy",
+
+    "voiceConnected": "#F7C600",
+    "reactionAccent": "#F7C600",
+    "reactionHover": "#FFD84A",
+    "profileAccent": "#F4F6F8",
+    "emojiPickerAccent": "#AEB5BC",
+    "glassOpacity": 0.72,
+    "glassBlur": 18
+  },
+
+  "developer": {
+    "project": "Porsche 911 GT Silver",
+    "codename": "Midnight Autobahn",
+    "status": "Stable",
+    "engineeredFor": [
+      "Rain",
+      "Revenge"
+    ]
+  },
+
+  "quality": {
+    "highContrast": true,
+    "glassmorphism": true,
+    "premiumLayering": true,
+    "smoothAnimations": true,
+    "antiGlareTypography": true,
+    "graphiteInterior": true,
+    "gtSilverAccents": true,
+    "porscheInspired": true
+  },
+
+  "performance": {
+    "gpuFriendly": true,
+    "optimizedGifPlayback": true,
+    "recommendedBlur": 2,
+    "recommendedAlpha": 0.70,
+    "recommendedBackgroundFPS": 30,
+    "lowPowerMode": true
+  },
+
+  "compatibility": {
+    "rain": true,
+    "revenge": true,
+    "minimumSpec": 2,
+    "supports": {
+      "animatedBackground": true,
+      "glassmorphism": true,
+      "highContrastMode": true,
+      "replyHighlights": true,
+      "mentionHighlights": true
+    }
+  },
+
+  "release": {
+    "channel": "Stable",
+    "build": "1.0.0",
+    "edition": "GT Silver",
+    "notes": [
+      "Graphite cockpit styling",
+      "GT Silver typography",
+      "PCCB Yellow interaction system",
+      "Guards Red notifications",
+      "Animated background support",
+      "Optimized for Rain"
+    ]
+  },
+
+  "extensions": {
+    "themeEdition": "GT Silver Signature",
+    "replyLineColor": "#F7C600",
+    "mentionLineColor": "#C1121F",
+    "threadSpineColor": "#7E858C",
+    "pingColor": "#C1121F",
+    "mentionHighlight": "#C1121F22",
+    "mentionBorder": "#C1121F",
+    "unreadIndicator": "#F7C600",
+    "newMessagesBar": "#F7C600",
+    "newMessagesBarText": "#202224",
+    "reactionAccent": "#F7C600",
+    "reactionHover": "#FFD84A",
+    "profileAccent": "#F4F6F8",
+    "voiceConnected": "#F7C600",
+    "streamingAccent": "#8BF000",
+    "focusRing": "#F7C600",
+    "glassOpacity": 0.70,
+    "glassBlur": 2,
+    "borderRadius": 20,
+
+    "glassEngine": {
+      "enabled": true,
+      "blur": 2,
+      "opacity": 0.70,
+      "edgeHighlight": "#AEB4BA"
+    },
+
+    "lighting": {
+      "dashboardGlow": "#E3C55A",
+      "ambientInterior": "#70757A",
+      "notificationGlow": "#D42A2A",
+      "selectionGlow": "#F2D05B"
+    },
+
+    "cockpit": {
+      "material": "Graphite Leather",
+      "trim": "Brushed Aluminum",
+      "clusterStyle": "911 Digital",
+      "consoleStyle": "GT Center Console"
+    },
+
+    "interaction": {
+      "hoverAnimation": "smooth",
+      "buttonStyle": "rounded",
+      "replyHighlight": "#F2D05B",
+      "mentionHighlight": "#D42A2A",
+      "selectionHighlight": "#90969D"
+    },
+
+    "themeFeatures": [
+      "PorscheCockpit",
+      "GraphiteInterior",
+      "GTSilverUI",
+      "BrushedMetal",
+      "PremiumGlass",
+      "AnimatedWallpaper",
+      "HighContrast",
+      "OLEDFriendly",
+      "RainCompatible"
+    ],
+
+    "futureVariants": {
+      "Carrera": true,
+      "CarreraS": true,
+      "GTS": true,
+      "Turbo": false,
+      "TurboS": false,
+      "GT3": false,
+      "GT3RS": false
+    }
+  }
+}
+
