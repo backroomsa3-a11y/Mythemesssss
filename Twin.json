@@ -1,0 +1,419 @@
+{
+  "id": "porsche-911-992",
+  "filename": "Porsche 911 (992).json",
+  "name": "Porsche 911 (992)",
+  "description": "Midnight Drive • Twin Turbo",
+  "version": "1.0.0",
+  "spec": 2,
+
+  "authors": [
+    {
+      "name": "Noctra",
+      "id": "1387455182526484582"
+    }
+  ],
+
+  "background": {
+    "url": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/hzwxbb.gif",
+    "alpha": 0.62,
+    "blur": 3
+  },
+
+  "plus": {
+    "version": "1.0.0",
+    "iconPack": "",
+    "glassmorphism": true,
+    "oledOptimized": true,
+    "replyLineColor": "#F7C600",
+    "mentionLineColor": "#C1121F",
+    "threadSpineColor": "#5A6066",
+    "borderRadius": 16,
+    "glassOpacity": 0.62,
+    "glassBlur": 3,
+    "motorsportMode": true,
+    "themeVariant": "Porsche 911 Turbo S (992)"
+  },
+
+  "semanticColors": {
+    "CHAT_BACKGROUND": ["#000000"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#111214"],
+    "BACKGROUND_SECONDARY_ALT": ["#17191B"],
+    "BACKGROUND_TERTIARY": ["#1E2023"],
+
+    "BACKGROUND_FLOATING": ["#17191B"],
+    "BACKGROUND_NESTED_FLOATING": ["#111214"],
+
+    "HOME_BACKGROUND": ["#000000"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#FFFFFF08"],
+    "BACKGROUND_MODIFIER_HOVER": ["#FFFFFF0A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#FFFFFF12"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#FFFFFF18"],
+
+    "BACKGROUND_MENTIONED": ["#C1121F20"],
+    "BACKGROUND_MENTIONED_HOVER": ["#C1121F30"],
+
+    "MENTION_BACKGROUND": ["#C1121F20"],
+    "MENTION_FOREGROUND": ["#F2F4F4"],
+
+    "HEADER_PRIMARY": ["#F2F4F4"],
+    "HEADER_SECONDARY": ["#D2D6DA"],
+
+    "TEXT_PRIMARY": ["#F2F4F4"],
+    "TEXT_NORMAL": ["#F2F4F4"],
+    "TEXT_SECONDARY": ["#C8CDD2"],
+    "TEXT_MUTED": ["#8D949A"],
+
+    "TEXT_LINK": ["#D9DEE2"],
+
+    "CHANNEL_ICON": ["#A6A9AA"],
+    "CHANNELS_DEFAULT": ["#666C72"],
+
+    "INTERACTIVE_NORMAL": ["#A6A9AA"],
+    "INTERACTIVE_HOVER": ["#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#666C72"],
+
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#F2F4F4"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#A6A9AA"],
+
+    "MEMBER_LIST_BACKGROUND": ["#000000"],
+    "MEMBER_LIST_HOVER": ["#111214"],
+    "MEMBER_LIST_SELECTED": ["#1E2023"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#111214DD"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#111214DD"],
+
+    "REPLY_BAR_BACKGROUND": ["#111214"],
+    "REPLY_BAR_TEXT": ["#F2F4F4"],
+
+    "REPLY_QUOTE_LINE": ["#F7C600"],
+    "MENTION_LINE": ["#C1121F"],
+
+    "THREAD_CHANNEL_SPINE": ["#5A6066"],
+    "THREAD_CHANNEL_SPINE_GRADIENT": ["#A6A9AA"],
+
+    "THREAD_CHANNEL_NAME": ["#F2F4F4"],
+    "THREAD_MESSAGE_PREVIEW": ["#C8CDD2"],
+
+    "SCROLLBAR_THIN_THUMB": ["#43484D"],
+    "SCROLLBAR_THIN_TRACK": ["#000000"],
+
+    "SCROLLBAR_AUTO_THUMB": ["#5A6066"],
+    "SCROLLBAR_AUTO_TRACK": ["#111214"],
+
+    "UNREAD_BAR_BACKGROUND": ["#C1121F"],
+    "UNREAD_BAR_TEXT": ["#FFFFFF"],
+
+    "NEW_MESSAGES_BAR": ["#F7C600"],
+    "NEW_MESSAGES_BAR_TEXT": ["#111111"],
+
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#F7C600"],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#D8AE00"],
+    "REDESIGN_BUTTON_PRIMARY_BORDER": ["#FFD84D"],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": ["#111111"],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#111214"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#17191B"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#363A3F"],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": ["#F2F4F4"],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED": ["#1E2023"],
+
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#C1121F"],
+
+    "STATUS_POSITIVE": ["#8BF000"],
+    "STATUS_WARNING": ["#F7C600"],
+    "STATUS_DANGER": ["#C1121F"],
+    "STATUS_BRAND": ["#A6A9AA"],
+
+    "SEARCH_BAR_BACKGROUND": ["#111214DD"],
+    "SEARCH_BAR_BACKGROUND_NON_ACTIVE": ["#111214"],
+    "SEARCH_BAR_BACKGROUND_ACTIVE": ["#1E2023"],
+    "SEARCH_BAR_TEXT": ["#F2F4F4"],
+    "SEARCH_BAR_PLACEHOLDER": ["#8D949A"],
+
+    "SEARCH_RESULT_BACKGROUND": ["#17191B"],
+    "SEARCH_RESULT_HOVER": ["#1E2023"],
+    "SEARCH_RESULT_SELECTED": ["#26292C"],
+
+    "SEARCH_HIGHLIGHT": ["#F7C600"],
+    "SEARCH_HIGHLIGHT_TEXT": ["#111111"],
+
+    "PROFILE_GRADIENT_PRIMARY": ["#000000"],
+    "PROFILE_GRADIENT_SECONDARY": ["#111214"],
+
+    "PROFILE_BODY_BACKGROUND": ["#111214"],
+    "PROFILE_MESSAGE_INPUT_BACKGROUND": ["#17191BDD"],
+    "PROFILE_NOTE_BACKGROUND": ["#17191B"],
+
+    "PROFILE_ROLE_PILL_BACKGROUND": ["#1E2023"],
+    "PROFILE_ROLE_PILL_BORDER": ["#4A4F54"],
+    "PROFILE_ROLE_PILL_TEXT": ["#F2F4F4"],
+
+    "VOICE_PANEL_BACKGROUND": ["#000000"],
+    "VOICE_CONNECTED": ["#F7C600"],
+    "VOICE_SPEAKING": ["#F7C600"],
+    "VOICE_RING": ["#F7C600"],
+
+    "EMOJI_PICKER_BACKGROUND": ["#111214"],
+    "EMOJI_PICKER_CATEGORY": ["#A6A9AA"],
+    "EMOJI_PICKER_HOVER": ["#1E2023"],
+
+    "REACTION_BACKGROUND": ["#17191B"],
+    "REACTION_HOVER": ["#1E2023"],
+    "REACTION_ACTIVE": ["#F7C600"],
+    "REACTION_TEXT": ["#F2F4F4"],
+
+    "CALL_BACKGROUND": ["#000000"],
+    "CALL_CONTROL_BACKGROUND": ["#111214"],
+    "CALL_CONTROL_ACTIVE": ["#F7C600"],
+    "CALL_CONTROL_HOVER": ["#A6A9AA"],
+
+    "MODAL_BACKGROUND": ["#111214EE"],
+    "MODAL_HEADER": ["#F2F4F4"],
+    "MODAL_BORDER": ["#3B4045"],
+    "MODAL_FOOTER_BACKGROUND": ["#000000"],
+
+    "CONTEXT_MENU_BACKGROUND": ["#111214EE"],
+    "CONTEXT_MENU_HOVER": ["#1E2023"],
+    "CONTEXT_MENU_ACTIVE": ["#26292C"],
+
+    "CARD_PRIMARY_BG": ["#111214"],
+    "CARD_SECONDARY_BG": ["#17191B"],
+
+    "EMBED_BACKGROUND": ["#17191B"],
+
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#111214CC"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#1E2023"],
+
+    "FORUM_POST_TAG_BACKGROUND": ["#F7C60022"],
+    "FORUM_POST_MEDIA_PLACEHOLDER": ["#17191B"],
+    "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER": ["#111214"],
+
+    "NITRO_BACKGROUND": ["#111214"],
+
+    "BOOST_GRADIENT_START": ["#A6A9AA"],
+    "BOOST_GRADIENT_END": ["#F2F4F4"],
+    "BOOST_TEXT": ["#F2F4F4"],
+
+    "SWITCH_TRACK": ["#40454A"],
+    "SWITCH_TRACK_CHECKED": ["#F7C600"],
+    "SWITCH_KNOB": ["#F2F4F4"],
+
+    "SLIDER_TRACK": ["#40454A"],
+    "SLIDER_FILL": ["#F7C600"],
+
+    "CHECKBOX_BACKGROUND": ["#40454A"],
+    "CHECKBOX_CHECK": ["#111111"],
+
+    "RADIO_BACKGROUND": ["#40454A"],
+    "RADIO_SELECTED": ["#F7C600"],
+
+    "PROGRESS_BAR_BACKGROUND": ["#17191B"],
+    "PROGRESS_BAR_FILL": ["#F7C600"],
+
+    "BORDER_FAINT": ["#FFFFFF10"],
+    "BORDER_SUBTLE": ["#FFFFFF18"],
+    "BORDER_STRONG": ["#FFFFFF28"],
+
+    "TOOLTIP_BACKGROUND": ["#2B2B2B"],
+    "TOOLTIP_TEXT": ["#F2F4F4"],
+
+    "KEYBOARD": ["#111214"],
+
+    "LINK_DEFAULT": ["#D9DEE2"],
+    "LINK_HOVER": ["#F7C600"],
+    "LINK_VISITED": ["#A6A9AA"],
+
+    "TEXT_BRAND": ["#F2F4F4"],
+    "TEXT_POSITIVE": ["#8BF000"],
+    "TEXT_WARNING": ["#F7C600"],
+    "TEXT_DANGER": ["#C1121F"]
+  },
+
+  "extensions": {
+    "themeVariant": "Porsche 911 Turbo S (992)",
+    "supportsOLED": true,
+    "supportsGlassmorphism": true,
+    "supportsAnimatedBackground": true,
+
+    "replyLineColor": "#F7C600",
+    "mentionLineColor": "#C1121F",
+    "threadSpineColor": "#5A6066",
+
+    "pingColor": "#C1121F",
+    "mentionHighlight": "#C1121F22",
+    "mentionBorder": "#C1121F",
+
+    "unreadIndicator": "#F7C600",
+    "newMessagesBar": "#F7C600",
+    "newMessagesBarText": "#111111",
+
+    "reactionAccent": "#F7C600",
+    "reactionHover": "#FFD84D",
+
+    "emojiPickerAccent": "#C8CDD2",
+
+    "profileAccent": "#F2F4F4",
+
+    "voiceConnected": "#F7C600",
+    "streamingAccent": "#8BF000",
+
+    "callAccent": "#A6A9AA",
+
+    "linkColor": "#D9DEE2",
+
+    "selectionColor": "#2A2D31",
+    "hoverColor": "#1E2023",
+    "pressedColor": "#2D3135",
+
+    "focusRing": "#F7C600",
+
+    "switchEnabled": "#F7C600",
+    "sliderActive": "#F7C600",
+    "checkboxActive": "#F7C600",
+    "radioActive": "#F7C600",
+
+    "badgeColor": "#C1121F",
+
+    "glassOpacity": 0.62,
+    "glassBlur": 3,
+
+    "borderRadius": 16,
+
+    "telemetryMode": true,
+    "trackMode": true,
+
+    "cockpitLighting": {
+      "enabled": true,
+      "accent": "#F7C600",
+      "glowOpacity": 0.08
+    },
+
+    "dashboard": {
+      "panelStyle": "Piano Black",
+      "dividerColor": "#FFFFFF10",
+      "dividerThickness": 1
+    },
+
+    "profiles": {
+      "glassCards": true,
+      "cardOpacity": 0.62,
+      "borderColor": "#FFFFFF12"
+    },
+
+    "chat": {
+      "compactReplies": true,
+      "smoothMentions": true,
+      "replyGlow": "#F7C60022",
+      "mentionGlow": "#C1121F22"
+    },
+
+    "buttons": {
+      "hoverGlow": "#F7C60014",
+      "pressedGlow": "#F7C60022",
+      "borderColor": "#FFFFFF14"
+    },
+
+    "lists": {
+      "selectedGlow": "#F7C60018",
+      "hoverOverlay": "#FFFFFF08"
+    },
+
+    "threads": {
+      "metallicSpine": true,
+      "spineHighlight": "#A6A9AA"
+    },
+
+    "profilesTheme": {
+      "dashboardInspired": true,
+      "instrumentBorders": "#FFFFFF12",
+      "headerAccent": "#C8CDD2"
+    },
+
+    "themeDetails": {
+      "carbonFiberInspired": true,
+      "antiFingerprintPanels": true,
+      "premiumSpacing": true,
+      "thinBorders": true,
+      "oledBlackOptimization": true
+    }
+  },
+
+  "metadata": {
+    "themeName": "Porsche 911 Turbo S (992)",
+    "shortName": "P911",
+    "author": "Noctra",
+    "version": "1.0.0",
+
+    "designLanguage": "Porsche PCM",
+
+    "vehicle": {
+      "manufacturer": "Porsche",
+      "model": "911",
+      "generation": "992",
+      "variant": "Turbo S"
+    },
+
+    "palette": {
+      "amoledBlack": "#000000",
+      "pianoBlack": "#111214",
+      "graphite": "#17191B",
+      "basalt": "#1E2023",
+      "gtSilver": "#C8CDD2",
+      "pccbYellow": "#F7C600",
+      "guardsRed": "#C1121F",
+      "acidGreen": "#8BF000"
+    }
+  },
+
+  "compatibility": {
+    "rain": true,
+    "revenge": true,
+    "themeVersion": "1.0.0",
+
+    "supports": {
+      "oled": true,
+      "glassmorphism": true,
+      "animatedBackground": true,
+      "replyHighlights": true,
+      "mentionHighlights": true,
+      "threadSpines": true
+    }
+  },
+
+  "developer": {
+    "codename": "Midnight Autobahn",
+    "project": "Porsche 911 (992)",
+    "edition": "Turbo S Signature",
+    "status": "Stable"
+  },
+
+  "quality": {
+    "antiGlareTypography": true,
+    "adaptiveContrast": true,
+    "premiumLayering": true,
+    "graphiteSurfaces": true,
+    "metallicAccents": true,
+    "oledOptimized": true,
+    "consistentBorderRadius": true,
+    "pixelPerfectSpacing": true,
+    "highContrast": true
+  },
+
+  "performance": {
+    "gpuFriendly": true,
+    "optimizedBlur": true,
+    "optimizedGifPlayback": true,
+    "batteryFriendly": true,
+    "recommendedBackgroundFPS": 30
+  },
+
+  "variants": {
+    "nightDrive": true,
+    "trackMode": true,
+    "oledEdition": true,
+    "turboS": true
+  }
+  }
