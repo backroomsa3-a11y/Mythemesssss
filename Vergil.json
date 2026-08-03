@@ -501,7 +501,7 @@
   },
   "plus": {
     "version": 0,
-    "iconpack": "rosiecord-plumpy",
+    "iconpack": "rosiecord-iconsax",
     "mentionLineColor": "#BFE9FF",
     "customOverlays": true,
     "customMessageMentionLineColor": true,
